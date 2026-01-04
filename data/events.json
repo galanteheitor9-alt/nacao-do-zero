@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Crise Econômica",
+    "effect": {
+      "economy": -10,
+      "popularity": -5
+    }
+  },
+  {
+    "name": "Boom Industrial",
+    "effect": {
+      "economy": 15,
+      "money": 20
+    }
+  }
+]
