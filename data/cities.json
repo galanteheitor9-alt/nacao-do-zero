@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Nova Capital",
+    "population": 500000,
+    "industry": 60,
+    "crime": 20
+  },
+  {
+    "name": "Porto Azul",
+    "population": 200000,
+    "industry": 40,
+    "crime": 35
+  }
+]
